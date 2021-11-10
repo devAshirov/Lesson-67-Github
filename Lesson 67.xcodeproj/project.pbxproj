@@ -13,6 +13,10 @@
 		ACC13324273BE3090085011C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACC13322273BE3090085011C /* Main.storyboard */; };
 		ACC13326273BE30A0085011C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACC13325273BE30A0085011C /* Assets.xcassets */; };
 		ACC13329273BE30A0085011C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACC13327273BE30A0085011C /* LaunchScreen.storyboard */; };
+		D9EEC706273BF8640038D915 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9EEC704273BF8640038D915 /* MainVC.swift */; };
+		D9EEC707273BF8640038D915 /* MainVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = D9EEC705273BF8640038D915 /* MainVC.xib */; };
+		D9EEC70A273BFA7D0038D915 /* newVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9EEC708273BFA7D0038D915 /* newVC.swift */; };
+		D9EEC70B273BFA7D0038D915 /* newVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = D9EEC709273BFA7D0038D915 /* newVC.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		ACC13325273BE30A0085011C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACC13328273BE30A0085011C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACC1332A273BE30A0085011C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9EEC704273BF8640038D915 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
+		D9EEC705273BF8640038D915 /* MainVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainVC.xib; sourceTree = "<group>"; };
+		D9EEC708273BFA7D0038D915 /* newVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newVC.swift; sourceTree = "<group>"; };
+		D9EEC709273BFA7D0038D915 /* newVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = newVC.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +71,10 @@
 				ACC13325273BE30A0085011C /* Assets.xcassets */,
 				ACC13327273BE30A0085011C /* LaunchScreen.storyboard */,
 				ACC1332A273BE30A0085011C /* Info.plist */,
+				D9EEC704273BF8640038D915 /* MainVC.swift */,
+				D9EEC705273BF8640038D915 /* MainVC.xib */,
+				D9EEC708273BFA7D0038D915 /* newVC.swift */,
+				D9EEC709273BFA7D0038D915 /* newVC.xib */,
 			);
 			path = "Lesson 67";
 			sourceTree = "<group>";
@@ -126,6 +138,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACC13329273BE30A0085011C /* LaunchScreen.storyboard in Resources */,
+				D9EEC707273BF8640038D915 /* MainVC.xib in Resources */,
+				D9EEC70B273BFA7D0038D915 /* newVC.xib in Resources */,
 				ACC13326273BE30A0085011C /* Assets.xcassets in Resources */,
 				ACC13324273BE3090085011C /* Main.storyboard in Resources */,
 			);
@@ -139,6 +153,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACC13321273BE3090085011C /* ViewController.swift in Sources */,
+				D9EEC706273BF8640038D915 /* MainVC.swift in Sources */,
+				D9EEC70A273BFA7D0038D915 /* newVC.swift in Sources */,
 				ACC1331D273BE3090085011C /* AppDelegate.swift in Sources */,
 				ACC1331F273BE3090085011C /* SceneDelegate.swift in Sources */,
 			);
