@@ -1,20 +1,21 @@
 //
-//  ViewController.swift
+//  IbrokhimVC.swift
 //  Lesson 67
 //
-//  Created by Shahzod Ashirov on 10/11/21.
+//  Created by ibrohim begaliev on 11/10/21.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class IbrokhimVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
 
 
-    
-}
 
+
+}

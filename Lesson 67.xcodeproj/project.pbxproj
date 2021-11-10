@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C538538273BF02000B7EE3A /* IbrokhimVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C538536273BF02000B7EE3A /* IbrokhimVC.swift */; };
+		8C538539273BF02000B7EE3A /* IbrokhimVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C538537273BF02000B7EE3A /* IbrokhimVC.xib */; };
 		ACC1331D273BE3090085011C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC1331C273BE3090085011C /* AppDelegate.swift */; };
 		ACC1331F273BE3090085011C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC1331E273BE3090085011C /* SceneDelegate.swift */; };
 		ACC13321273BE3090085011C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC13320273BE3090085011C /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8C538536273BF02000B7EE3A /* IbrokhimVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IbrokhimVC.swift; sourceTree = "<group>"; };
+		8C538537273BF02000B7EE3A /* IbrokhimVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = IbrokhimVC.xib; sourceTree = "<group>"; };
 		ACC13319273BE3090085011C /* Lesson 67.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lesson 67.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACC1331C273BE3090085011C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACC1331E273BE3090085011C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				ACC1331C273BE3090085011C /* AppDelegate.swift */,
 				ACC1331E273BE3090085011C /* SceneDelegate.swift */,
 				ACC13320273BE3090085011C /* ViewController.swift */,
+				8C538536273BF02000B7EE3A /* IbrokhimVC.swift */,
+				8C538537273BF02000B7EE3A /* IbrokhimVC.xib */,
 				ACC13322273BE3090085011C /* Main.storyboard */,
 				ACC13325273BE30A0085011C /* Assets.xcassets */,
 				ACC13327273BE30A0085011C /* LaunchScreen.storyboard */,
@@ -126,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACC13329273BE30A0085011C /* LaunchScreen.storyboard in Resources */,
+				8C538539273BF02000B7EE3A /* IbrokhimVC.xib in Resources */,
 				ACC13326273BE30A0085011C /* Assets.xcassets in Resources */,
 				ACC13324273BE3090085011C /* Main.storyboard in Resources */,
 			);
@@ -139,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACC13321273BE3090085011C /* ViewController.swift in Sources */,
+				8C538538273BF02000B7EE3A /* IbrokhimVC.swift in Sources */,
 				ACC1331D273BE3090085011C /* AppDelegate.swift in Sources */,
 				ACC1331F273BE3090085011C /* SceneDelegate.swift in Sources */,
 			);
